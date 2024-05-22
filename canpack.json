@@ -1,0 +1,11 @@
+{
+    "canisters": {
+        "s3_presigned_url_rust_backend": {
+            "type": "rust",
+            "parts": [{
+                "package": "canpack-example-hello",
+                "version": "^0.1"
+            }]
+        }
+    }
+}
